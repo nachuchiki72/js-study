@@ -20,3 +20,8 @@ console.log(d)
 
 console.log(d/c);
 
+let x =2
+let y=3
+
+console.log(x+y);
+console.log(x=x*y+3);
