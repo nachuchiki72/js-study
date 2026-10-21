@@ -13,3 +13,10 @@ c=50*6
 console.log(c);
 
 console.log(a+b+c);
+
+let d=460
+d=230*2
+console.log(d)
+
+console.log(d/c);
+
