@@ -35,5 +35,9 @@ const tax =price*taxRate;
 const total=price+tax;
 console.log(total);
 
-const result=(10>5);
+// ブーリアン論理値true(正しい)false(間違い)
+const result=(10<5);
 console.log(result)
+
+
+
