@@ -34,3 +34,4 @@ const taxRate=0.08;
 const tax =price*taxRate;
 const total=price+tax;
 console.log(total);
+
