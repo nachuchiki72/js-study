@@ -25,3 +25,12 @@ let y=3
 
 console.log(x+y);
 console.log(x=x*y+3);
+
+// const 変数そのものへの再代入を禁止だが中身の追加、変更、削除は可能
+
+const price =1000;
+const taxRate=0.08;
+// taxRate税率
+const tax =price*taxRate;
+const total=price+tax;
+console.log(total);
