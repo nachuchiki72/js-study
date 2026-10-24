@@ -39,7 +39,20 @@ console.log(total);
 const result=(10<5);
 console.log(result)
 
+console.log(8 > 3);
 
+// カンマ演算子
+let xa=1;
+xa=(xa,2)
+
+console.log(xa)
+xa=(4, 5);
+console.log(xa);
+
+// 等価演算子
+let xb=2
+xb=(2==4);
+console.log(xb);
 
 
 
